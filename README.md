@@ -12,11 +12,7 @@ O grupo escolheu o tema agronomia e focou nos cinco principais alimentos produzi
 
 # Culturas analisadas
 
-Soja
-Milho (em grão)
-Cana-de-açúcar
-Café
-Algodão herbáceo
+Soja, Milho (em grão), Cana-de-açúcar, Café e Algodão herbáceo.
 
 Período analisado: 2021–2025
 
@@ -48,11 +44,7 @@ IBGE — SIDRA, tabela 5457 (Produção Agrícola Municipal): https://sidra.ibge
 
 Bases tratadas:
 
-df_colhida.csv
-df_plantada.csv
-df_produzida.csv
-df_rendimento.csv
-df_valor.csv
+df_colhida.csv, df_plantada.csv, df_produzida.csv, df_rendimento.csv, df_valor.csv e agrobd_tratada.csv (todas as bases juntas).
 
 O dashboard foi construído no Power BI, com 5 páginas (cada uma feita por um integrante), uma para cada pergunta do D.E.I.L.A.S.
 
@@ -82,13 +74,8 @@ Se o Power BI pedir, atualize os caminhos das fontes de dados na sua máquina (T
 
 ## Ferramentas utilizadas
 
-Power BI
-Google Colab
+Power BI e Google Colab
 
 ## Equipe
 
-Artur Mota Gomes
-Eduardo Pontes da Silva
-Gabriel de Sousa
-João Felipe Macêdo da Silva
-Matheus Rodrigues da Silva
+Artur Mota Gomes, Eduardo Pontes da Silva, Gabriel de Sousa, João Felipe Macêdo da Silva e Matheus Rodrigues da Silva.
